@@ -1,0 +1,29 @@
+#kwitter{
+    font-style: italic;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    font-size: 50px;
+    padding: 30;
+    color: #000000;
+}
+
+#logout
+{
+	font-size: 20px; float: right;
+}
+
+body{
+    background:linear-gradient(rgb(143, 214, 68) 0%, rgb(255, 255, 255) 100%);
+}
+
+#img{
+    height: 100px;
+    width: 7%;
+}
+
+#addroom{
+    width:10%;
+    height: 25px;
+    color: #4a69c4;
+}
+

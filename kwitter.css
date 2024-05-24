@@ -1,0 +1,40 @@
+#login{
+    font-style: italic;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    font-size: 50px;
+    padding: 30;
+    color: #065ca7;
+   
+}
+body{
+    background:linear-gradient(rgb(139, 189, 206) 0%, rgb(255, 255, 255) 100%);
+}
+#input{
+    width:40%;
+    height:30px;
+    color: aquamarine;
+}
+#label{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #4a8bc4;
+}
+#login_button{
+    width:5%;
+    height: 25px;
+    color: #4a8bc4;
+}
+#image{
+    height:150px;
+    width:15%;
+    border-radius: 20px;
+}
+#intro{
+    color: #001629;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#output
+{
+	padding: 10px; width:80%;background: rgba(255,255,255,0.8);border-radius: 15px;
+}
